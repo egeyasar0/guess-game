@@ -1,0 +1,10 @@
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\bin\Debug\sayı tahmin.exe.config
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\bin\Debug\sayı tahmin.exe
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\bin\Debug\sayı tahmin.pdb
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı tahmin.csproj.AssemblyReference.cache
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı_tahmin.tahminet.resources
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı_tahmin.Properties.Resources.resources
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı tahmin.csproj.GenerateResource.cache
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı tahmin.csproj.CoreCompileInputs.cache
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı tahmin.exe
+C:\Users\egenu\Desktop\kod\c#\sayı tahmin\sayı tahmin\obj\Debug\sayı tahmin.pdb
